@@ -98,9 +98,9 @@ img{
 }
 .grid{
     text-align: center;
-    background-color: darkkhaki;
-    padding: 10px;
+    background-color: khaki;
     margin: 5px;
+    font-style: italic;
 }
 
 .grid1{
@@ -115,6 +115,7 @@ img{
 .grid2{
     grid-column-start: 1;
     grid-column-end: 2;
+   
     
 }
 .grid3{
@@ -152,6 +153,7 @@ img{
     border-radius: 10px;
     position: fixed;
     left: 500px;
+    bottom: 50px;
    padding: 10px;
 }
 .left{
